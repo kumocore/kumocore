@@ -12,7 +12,7 @@
   <img align="center" alt="Kumo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kumo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kumo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="righr" alt="Kumo-CSS" height="30" width="40" src="https://imgflip.com/gif/6tnhhu">
+  <img align="right" alt="Kumo-Icon" src="https://giphy.com/gifs/CQm6JqHJ2npzaXvNWm">
   </div>
 
   
