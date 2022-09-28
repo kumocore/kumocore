@@ -11,5 +11,6 @@
   <img align="center" alt="Kumo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Kumo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/991004234323464242/1020407586949955644/549603_L2EvDDdY.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+
  ![Snake animation](https://github.com/kumocore/kumocore/blob/output/github-contribution-grid-snake.svg)
   </div>
