@@ -6,8 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumocore&layout=compact&langs_count=7&theme=monokai"/>
 
 <div style="display: inline_block"><br>.
-  <img align="right" alt="Kumo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/991004234323464242/1020407586949955644/549603_L2EvDDdY.png">
-  <img align="center" alt="Kumo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-
+  <img align="center" alt="Kumo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/991004234323464242/1020407586949955644/549603_L2EvDDdY.png">
+  
  ![Snake animation](https://github.com/kumocore/kumocore/blob/output/github-contribution-grid-snake.svg)
   </div>
